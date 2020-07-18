@@ -4,5 +4,7 @@
 ''' Menu is as follows'''
 
 1.Easy Password
+
 2.Medium Password
+
 3.Strong Password
