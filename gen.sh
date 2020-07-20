@@ -9,5 +9,5 @@ if [[ $resp -eq 'y' || 'Y' ]]
 then
 	python generator.py
 else
-	echo 'GoodLuck '
+	exit
 fi
