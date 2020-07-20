@@ -1,4 +1,4 @@
-from random import choice           #random string selection
+import random           #random string selection
 import sys      #for exiting if wrong choice entered
 
 l_case=list('abcdefghijklmnopqrstuvwxyz')   #lowercase
